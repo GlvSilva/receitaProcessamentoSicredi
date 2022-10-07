@@ -1,6 +1,4 @@
-com\dbc\company\sicredi\dto\ErrorObjectReturn.class
 com\dbc\company\sicredi\function\SincronizacaoReceitafunction.class
-com\dbc\company\sicredi\dto\ErrorObjectReturn$ErrorObjectReturnBuilder.class
 com\dbc\company\sicredi\dto\EntradaCsv.class
 com\dbc\company\sicredi\dto\SaidaCsv.class
 com\dbc\company\sicredi\exception\EntradaCsvNotFound.class
